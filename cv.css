@@ -1,0 +1,23 @@
+.size_img_page {border-radius: 50%;vertical-align: middle;width: 150px;height: 150px;}
+.size_titre{font-size: 40px ;}
+
+
+.text_size_adrees1{position: absolute;top: 0px;left: 1000px;font-size: 20px;}
+.text_size_adrees2{position: absolute;top: 40px;left: 1000px;font-size: 20px;}
+.text_size_adrees3{position: absolute;top: 80px;left: 1000px;font-size: 20px;}
+.img_size_adrees{border-radius: 50%;vertical-align: middle;width: 30px;height: 30px;}
+  
+.line {border-top: 10px double #8c8b8b;}
+
+.text_size_info1{font-size: 30px;color: blue; }
+.image_page {border-radius: 50%;vertical-align: middle;width: 30px;height: 30px;}
+
+.text_size_info2{font-size: 20px;position: relative;left: 100px;}
+.size_info2EX{font-size: 15px;position: relative;left: 150px;}
+
+
+
+
+
+
+
